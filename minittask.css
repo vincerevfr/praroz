@@ -1,0 +1,124 @@
+.mainhead{
+    display: flex;
+    background-image: url(bgdd.png);
+    gap: 10px;
+    width: 100%;
+    padding-left: 3px;
+    /* width: 100%; */
+}
+#headsection1{
+    color: orangered;
+    padding-left: 20px;
+    margin: 20px;
+    width: 15%;
+}
+#headsection2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: bold;
+    width: 55%;
+    margin-top: 40px;
+    margin-left: 60px;
+    text-decoration: none;
+}
+#headsection2:hover{
+    color: yellow;
+}
+
+.headsection3{
+    width: 25%;
+    margin-top: 40px;
+
+}
+#TT1{
+    border-radius: 20px;
+}
+#TT2{
+    color: white;
+    background-color: orangered;
+    border-radius: 20px;
+  } 
+   #TT1:focus{
+    outline: none;
+   } 
+    #TT2:focus{
+    outline: none;
+   } 
+
+/* end of head,middle begins */
+span{
+    color: orangered;
+}
+.middlesection{
+    width: 100%;
+    display: flex;
+}
+#middleleft{
+    width: 50%;
+    margin-top: 30px;
+}
+#leftbase{
+    width: 200px;
+    background-color: orangered;
+    color: wheat;
+    margin-left: 80px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+#mypix{
+    width: 250px;
+    margin-top: 40px;
+    border-radius: 30px;
+    margin-left: 50px;
+}
+#middleright{
+    width: 35%;
+    border-radius: 20px;
+}
+#middleright{
+    margin-top: 40px;
+    background-color: rgb(43, 16, 16);
+    
+}
+#login{
+    background-color: white;
+    color: palevioletred;
+    margin-top: 25px;
+    text-align: center;
+    width: 80%;
+    border-radius: 20px;
+    margin-left: 35px;
+    margin-bottom: 15px;
+    
+}
+#writeup1{
+    color: white;
+    padding: 15px;
+    border: 1px solid white;
+}
+
+#writeup2{
+    color: white;
+    padding: 15px;
+    border: 1px solid white;
+}
+#rightlogin{
+    background-color: aquamarine;
+    color: orangered;
+    margin-left: 30px;
+    width: 80%;
+    margin-top: 20px;
+    border-radius: 20px;
+     margin-bottom: 15px;
+
+}
+#spantext{
+    padding-left: 70px;
+    color: white;
+    
+
+}
+
+#footer{
+    color: orangered;
+    margin-top: 30px;
+}
